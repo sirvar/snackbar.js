@@ -22,3 +22,32 @@ $("#element").snackbar();
 $("body").snackbar();
 ```
 will produce
+
+![alt tag](images/simple.png)
+
+## Options
+These are the defaults but can be changed to anything you want
+```javascript
+primaryCol = "#FFFFFF",
+accentCol = "#EFFC0A",
+duration = 3,
+message = "This is a snackbar. (snackbar.js)",
+option = false,
+optionText = "",
+swipe = false
+```
+
+### Details
+`primaryCol`: Primary text color
+
+`accentCol`: Option text color
+
+`duration`: In seconds
+
+`message`: Snackbar content
+
+`option`: Have option (true or false)
+
+`optionText`: Text for option (option must be true for this to show)
+
+`swipe`: Swipe to dismiss (does not dismiss in specified duration if true)

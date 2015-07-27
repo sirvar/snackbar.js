@@ -1,7 +1,7 @@
 # snackbar.js
 snackbar.js is a jQuery plugin that replicates Google's Material Design snackbar. It gives you full control over how it looks and how it behaves.
 
-[Demo](http://rikinkatyal.github.io/snackbar.js/demo/)
+###[Demo](http://rikinkatyal.github.io/snackbar.js/demo/)
 
 ## Usage
 Include jQuery and jQuery UI in your project.

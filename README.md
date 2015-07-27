@@ -21,7 +21,7 @@ $("#element").snackbar();
 ```javascript
 $("body").snackbar();
 ```
-will produce
+results in
 
 ![alt tag](images/simple.png)
 

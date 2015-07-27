@@ -35,6 +35,7 @@ message = "This is a snackbar. (snackbar.js)",
 option = false,
 optionText = "",
 swipe = false
+callback = function(){}
 ```
 
 ### Details
@@ -51,3 +52,5 @@ swipe = false
 `optionText`: Text for option (option must be true for this to show)
 
 `swipe`: Swipe to dismiss (does not dismiss in specified duration if true)
+
+`callback`: Function to call on option click

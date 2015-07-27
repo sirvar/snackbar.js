@@ -12,7 +12,7 @@ Include jQuery and jQuery UI in your project.
 ```
 Also include `snackbar.js` in your project.
 ```html
-<script src="snackbar.js"></script>
+<script src="lib/snackbar.js"></script>
 ```
 To apply the snackbar to an element, use:
 ```javascript

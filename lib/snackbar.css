@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.snackbar {
+	position: fixed;
+	width: auto;
+	height: 45px;
+	background:  #323232;
+	line-height: 45px;
+	padding-left: 16px;
+	padding-right: 16px;
+	text-align: center;
+	border-radius: 2px;
+	bottom: 15px;
+	left: 15px;
+	display: none;
+	white-space: nowrap;
+}
+
+.snackbar-message {
+	color: #FFFFFF;
+	font-family: Roboto;
+	font-weight: 300;
+	font-size: 14px;
+	user-select: none;
+}
+
+.snackbar-option {
+	color: #EFFC0A;
+	font-family: Roboto;
+	font-weight: 300;
+	font-size: 13px;
+	padding-left: 25px;
+	cursor: pointer;
+	user-select: none;
+}

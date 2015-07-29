@@ -42,9 +42,9 @@ These are the defaults but can be changed to anything you want
 ```
 
 ### Details
-`primaryCol`: Primary text color
+`primary`: Primary text color
 
-`accentCol`: Option text color
+`accent`: Option text color
 
 `duration`: In seconds
 

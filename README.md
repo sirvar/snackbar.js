@@ -30,14 +30,15 @@ results in
 ## Options
 These are the defaults but can be changed to anything you want
 ```javascript
-primaryCol = "#FFFFFF",
-accentCol = "#EFFC0A",
-duration = 3,
-message = "This is a snackbar. (snackbar.js)",
-option = false,
-optionText = "",
-swipe = false
-callback = function(){}
+{
+  primary: "#FFFFFF",
+  accent: "#EFFC0A",
+  duration: 3,
+  message: "This is a snackbar. (snackbar.js)",
+  optionText: "",
+  swipe: false
+  callback: function(){}
+}
 ```
 
 ### Details
@@ -49,9 +50,7 @@ callback = function(){}
 
 `message`: Snackbar content
 
-`option`: Have option (true or false)
-
-`optionText`: Text for option (option must be true for this to show)
+`optionText`: Text for option (if any)
 
 `swipe`: Swipe to dismiss (does not dismiss in specified duration if true)
 

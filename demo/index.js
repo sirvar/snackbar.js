@@ -39,8 +39,8 @@ $(document).ready(function() {
 			message: "I can be any color you want!",
 			option: true,
 			optionText: "HERE TOO!",
-			primaryCol: "#FF69B4",
-			accentCol: "#00FFFF"
+			primary: "#FF69B4",
+			accent: "#00FFFF"
 		});
 	})
 

@@ -52,11 +52,11 @@ button {
 	font-size: 20px;
 	cursor: pointer;
 	border-radius: 2px;
-	margin-bottom: 70px;
+	margin-bottom: 40px;
 }
 
 code {
-	font-family: "menlo";
+	font-family: "menlo", "monospace";
 	font-size: 12px;
 	background: #23241F;
 	width: 320px;

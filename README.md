@@ -1,4 +1,4 @@
-# snackbar.js
+![alt tag](images/logo.png)
 snackbar.js is a jQuery plugin that replicates Google's Material Design snackbar. It gives you full control over how it looks and how it behaves.
 
 ###[Demo](http://sirvar.github.io/snackbar.js/demo/)

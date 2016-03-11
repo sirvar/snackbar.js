@@ -7,11 +7,13 @@ snackbar.js is a jQuery plugin that replicates Google's Material Design snackbar
 Include jQuery and jQuery UI in your project.
 ```html
 <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
 ```
-Also include `snackbar.js` in your project.
+Also include `snackbar` in your project.
 ```html
+<link rel="stylesheet" href="/lib/snackbar.css">
 <script src="lib/snackbar.js"></script>
 ```
 To apply the snackbar to an element, use:

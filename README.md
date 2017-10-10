@@ -44,16 +44,12 @@ These are the defaults but can be changed to anything you want
 ```
 
 ### Details
-`primary`: Primary text color
-
-`accent`: Option text color
-
-`duration`: In seconds
-
-`message`: Snackbar content
-
-`optionText`: Text for option (if any)
-
-`swipe`: Swipe to dismiss (does not dismiss in specified duration if true)
-
-`callback`: Function to call on option click
+| Option      | Description   |
+|:-----------:|:-------------:|
+| primary | Primary text color |
+| accent | Option text color |
+| duration | In seconds |
+| message | Snackbar content |
+| optionText | Text for option (if any) |
+| swipe | Swipe to dismiss (does not dismiss in specified duration if true) |
+| callback | Function to call on option click |
